@@ -21,7 +21,7 @@ Principais ações:
 
 **Em síntese:** a Plataforma atua como um espaço de colaboração entre diferentes setores para promover uma agricultura mais sustentável, resiliente ao clima, financeiramente viável e transparente, contribuindo para os objetivos globais de desenvolvimento sustentável.
 
-link Ação pela Agricultura e Florestas
+link= Ação pela Agricultura e Florestas
 
 Pacto Global
 https://www.pactoglobal.org.br › Ações
