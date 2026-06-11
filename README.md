@@ -20,3 +20,4 @@ Principais ações:
 * **Portal e Rede Entre Solos:** espaço de divulgação de artigos, entrevistas, eventos e conteúdos relacionados à sustentabilidade no agro.
 
 **Em síntese:** a Plataforma atua como um espaço de colaboração entre diferentes setores para promover uma agricultura mais sustentável, resiliente ao clima, financeiramente viável e transparente, contribuindo para os objetivos globais de desenvolvimento sustentável.
+![Uploading image.png…]()
